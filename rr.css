@@ -1,0 +1,33 @@
+button{
+    font-size: 5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 2px solid;
+    cursor: pointer;
+    width: 20%;
+
+}
+#gg{
+    justify-content: center;
+    padding-left: 450px;
+}
+h1{
+    padding-left: 380px;
+    font-size: 60px;
+}
+body{
+   background-image: url(th.jpg);
+    background-color: grey;
+}
+#in{
+    background-size: 80px;
+    width: 30%;
+    font-size: 3em;
+}
+.nn{
+    color: red;
+    background-color: yellow;
+}
+.ccc{
+    background-color: red;
+}
