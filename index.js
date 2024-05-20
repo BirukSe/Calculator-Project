@@ -12,3 +12,7 @@ function evaluateExpression() {
         inputField.value = "Error";
     }
 }
+function clearInput(){
+    const inp=document.getElementById("in");
+    inp.value="";
+}
